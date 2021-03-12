@@ -21,8 +21,11 @@ If the grade is 0,No Attempt should print to the console.
 
 function test(grade){
 //CODE BELOW HERE
-
-
-
+var results = {
+  if(let i = 0; i == 100; i++; green)
+  else if(let i = 0; i <= 99; i++; yellow)
+  else if(let i = 0; i <= 69; i++; red)
+  else(let i = 0; i == 0; i++; No attempt) 
+}
 //CODE ABOVE HERE
 }
